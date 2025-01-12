@@ -5,10 +5,8 @@
 <p>análise do problema ed precificação de quartos de hotéis.</p>
 
 ## �� Tecnologias
-<div>
-<img loading="lazy" src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           " width="40" height="40"/>
-</div>
 
-// Código omitido. 
+          
+
